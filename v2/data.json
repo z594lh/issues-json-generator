@@ -1,0 +1,36 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "SkyReeves",
+      "url": "https://skyreeves.com",
+      "avatar": "https://img.skyreeves.com/main/avatar96.gif",
+      "screenshot": "https://img.skyreeves.com/sites/screenshot.png",
+      "description": "把生命浪费在美好的事物上"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "description": "星语日点灯"
+    },
+    {
+      "title": "海底捞里没有鱼",
+      "avatar": "https://bu.dusays.com/2023/06/10/648499e1299d0.jpg",
+      "screenshot": "https://bu.dusays.com/2023/06/23/64948455a7895.png",
+      "url": "https://smileszh.cn"
+    },
+    {
+      "title": "星野鈴美",
+      "url": "https://uniiem.com/",
+      "avatar": "https://uniiem.com/assets/image/avatar.jpg",
+      "screenshot": "https://raw.githubusercontents.com/HoshinoSuzumi/HoshinoSuzumi/master/images/202209201151156.png",
+      "description": "我们就这样，生活在此地并不断离别。"
+    },
+    {
+      "title": "44maker",
+      "url": "https://44maker.github.io/",
+      "avatar": "https://fc.sinaimg.cn/large/007QiKhggy1hhi9ont0gtj30dw0dwjy1.jpg"
+    }
+  ]
+}
